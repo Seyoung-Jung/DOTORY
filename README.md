@@ -1,5 +1,4 @@
 # DOTORY
-GPT2 기반의 동화 자동 생성 AI
 
 GPT2 기반의 동화 생성을 구현한 창업팀 프로젝트입니다.
 
@@ -12,7 +11,8 @@ GPT2 기반의 동화 생성을 구현한 창업팀 프로젝트입니다.
 - GPT2 생성 + 번역 + Similarity
 - **KoGPT2 생성** 
 
-### Generate Result
+### Best Generate Result
+한국어 NLG에서는 KoGPT2가 가장 우수한 성능을 보였습니다.
 
 
 창업팀 레포지 : https://github.com/dotory-space

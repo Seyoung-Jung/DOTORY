@@ -20,4 +20,5 @@ GPT2 기반의 동화 생성을 구현한 창업팀 프로젝트입니다.
 
 
 창업팀 레포지 : https://github.com/dotory-space
+
 Inference on server code : https://github.com/dotory-space/dotory_fairy_tale_generator

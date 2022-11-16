@@ -8,7 +8,6 @@ GPT2 기반의 동화 생성을 구현한 창업팀 프로젝트입니다.
 
 ![서비스 화면 예시2](https://user-images.githubusercontent.com/55081331/202189372-c888fd9d-d94e-48af-b521-c9618ef6a892.png)
 
-<br>
 
 ## Tried Tech
 
@@ -33,7 +32,6 @@ OpenAI에서 오픈한 GPT2는 다국어로 학습된 모델이긴 하나 영어
 
 SKT에서 오픈한 KoGPT2를 한글 동화 데이터로 학습시킬 경우, 영어로 생성한 후 번역을 거치는 것보다 문체도 자연스럽고, 문맥 측면에서도 떨어지지 않는 성능을 보였습니다.
 
-<br>
 
 ## Best Result
 
@@ -57,7 +55,6 @@ SKT에서 오픈한 KoGPT2를 한글 동화 데이터로 학습시킬 경우, �
 
 ![최종 생성 예시_마을](https://user-images.githubusercontent.com/55081331/202192361-1450b996-9649-412a-b1f1-bc45bbd03c28.jpg)
 
-<br>
 
 ## Total Code
 
@@ -67,7 +64,6 @@ SKT에서 오픈한 KoGPT2를 한글 동화 데이터로 학습시킬 경우, �
 
 Inference on server code : https://github.com/dotory-space/dotory_fairy_tale_generator
 
-<br>
 
 ## Reference
 

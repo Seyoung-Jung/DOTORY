@@ -6,6 +6,8 @@ GPT2 기반의 동화 생성을 구현한 창업팀 프로젝트입니다.
 
 입력 문장 뒤에 연결되는 3가지 문장을 생성한 후 그 중 하나를 택하고, 또 3가지 문장을 생성한 후 선택하는 반복 방식의 task입니다.
 
+![서비스 화면 예시2](https://user-images.githubusercontent.com/55081331/202189372-c888fd9d-d94e-48af-b521-c9618ef6a892.png)
+
 <br>
 
 ## Tried Tech
@@ -43,7 +45,17 @@ SKT에서 오픈한 KoGPT2를 한글 동화 데이터로 학습시킬 경우, �
 
 또한 동화에서 등장하면 곤란한 단어들을 모아 사전을 만들어 출력 전에 **필터링**을 거치도록 하였습니다.
 
-(screen shot)
+#### Ex 1) 테마 : 숲속, 등장인물 : 토끼, 호랑이
+
+![최종 생성 예시_숲속](https://user-images.githubusercontent.com/55081331/202189748-ea1c70cb-edda-4da9-b6a5-3696e293eba4.png)
+
+#### Ex 2) 테마 : 왕국, 등장인물 : 공주, 왕자
+
+![최종 생성 예시_왕국](https://user-images.githubusercontent.com/55081331/202189812-b2a094a0-4701-46e0-9526-d84fcd0c285f.png)
+
+#### Ex 3) 테마 : 마을, 등장인물 : 도현, 민시
+
+![최종 생성 예시_마을](https://user-images.githubusercontent.com/55081331/202189935-e334d2b1-944e-4254-b49d-837d75122932.jpg)
 
 <br>
 

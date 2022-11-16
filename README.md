@@ -54,3 +54,12 @@ SKT에서 오픈한 KoGPT2를 한글 동화 데이터로 학습시킬 경우, �
 창업팀 레포지 : https://github.com/dotory-space
 
 Inference on server code : https://github.com/dotory-space/dotory_fairy_tale_generator
+
+<br>
+
+## Reference
+
+- https://github.com/SKT-AI/KoGPT2
+- https://huggingface.co/HScomcom/gpt2-fairytales?text=Once+upon+a+time%2C
+- https://towardsdatascience.com/text-generation-gpt-2-lstm-markov-chain-9ea371820e1e
+
